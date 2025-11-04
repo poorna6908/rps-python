@@ -1,4 +1,4 @@
 # rps-python
-A simple Rock Paper Scissors game with Python
+A simple Rock Paper Scissors game built using Python
 <br>
 Beginner friendly 
